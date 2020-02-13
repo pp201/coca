@@ -9,3 +9,8 @@ is an exercise
 Installation
 
 None
+
+Useage
+Smile
+Laughth
+and make love
