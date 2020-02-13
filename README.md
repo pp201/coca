@@ -1,12 +1,12 @@
-project name
+*project name
 
 software carpentry example
 
-project goal
+###project goal
 
 is an exercise
 
-Installation
+##Installation
 
 None
 
