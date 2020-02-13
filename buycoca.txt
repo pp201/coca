@@ -1,1 +1,8 @@
 Do you want to buy the cocacola?
+
+Unable to access repository over HTTPS #3713
+
+$ git config --global --unset-all https.proxy
+$ git config --global --unset-all http.proxy
+
+Update info
